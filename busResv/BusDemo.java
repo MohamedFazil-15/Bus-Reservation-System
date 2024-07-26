@@ -7,7 +7,7 @@ public class BusDemo {
 		
 		ArrayList<Bus> buses = new ArrayList<Bus>();
 		ArrayList<Booking> bookings = new ArrayList<Booking>();
-		buses.add(new Bus(1,true,1));
+		buses.add(new Bus(1,true,2)); //Assigning 2 capacities in BUS:1 to make the output check easier.
 		buses.add(new Bus(2,false,50));
 		buses.add(new Bus(3,true,48));
 		
