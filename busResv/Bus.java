@@ -12,6 +12,7 @@ public class Bus {
 		this.capacity = cap;
 	}
 	
+	// adding various get() and set() methods to access private variables.
 	public int getBusNo() {
 		return busNo;
 	}
