@@ -2,7 +2,7 @@ package busResv;
 
 import java.util.*;
 import java.text.ParseException;
-import java.text.SimpleDateFormat;
+import java.text.SimpleDateFormat; // to get date of specified format
 
 public class Booking {
 	
